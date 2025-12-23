@@ -26,7 +26,7 @@
     <tr>
       <td colspan="2" align="center">
         <a href="https://solved.ac/jimmy0308">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jimmy0308" width="100%" />
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jimmy0308" />
         </a>
       </td>
     </tr>
