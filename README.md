@@ -9,9 +9,26 @@
 
 ### 🏆 Algorithm & Stats
 <div align="center">
-  
-  <img src="./profile-summary-card-output/gruvbox/0-profile-details.svg" width="100%" />
-
-  <img src="./profile-summary-card-output/gruvbox/1-repos-per-language.svg" height="195" /><a href="https://solved.ac/jimmy0308"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jimmy0308&theme=dark" height="195" /></a>
-
+  <table align="center">
+    <tr>
+      <td colspan="2" align="center">
+        <img src="./profile-summary-card-output/radical/0-profile-details.svg" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./profile-summary-card-output/radical/3-stats.svg" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://solved.ac/jimmy0308">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jimmy0308" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
