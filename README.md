@@ -12,6 +12,6 @@
   
   <img src="./profile-summary-card-output/gruvbox/0-profile-details.svg" width="100%" />
 
-  <img src="./profile-summary-card-output/gruvbox/1-repos-per-language.svg" height="200"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jimmy0308&theme=dark" height="200"/>
+  <img src="./profile-summary-card-output/gruvbox/1-repos-per-language.svg" height="195" /><a href="https://solved.ac/jimmy0308"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jimmy0308&theme=dark" height="195" /></a>
 
 </div>
