@@ -10,4 +10,9 @@
 ### 🏆 Algorithm & Stats
 <div align=left>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jimmy0308" height="130" alt="Solved.ac Tier" />
+
+![](./profile-summary-card-output/radical/0-profile-details.svg)
+![](./profile-summary-card-output/radical/1-repos-per-language.svg)
+![](./profile-summary-card-output/radical/2-most-commit-language.svg)
+![](./profile-summary-card-output/radical/3-stats.svg)
 </div>
