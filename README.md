@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=d65d0e&height=250&section=header&text=Hello%20World&fontSize=80&fontColor=fbf1c7&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=d65d0e&height=250&section=header&text=Welcome&fontSize=80&fontColor=fbf1c7&animation=fadeIn)
 
 ### 👋 Hi there
 - 🌱 빠르게 배우고 적응하고자 노력하는 **Backend Server Developer**입니다 🤸
