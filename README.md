@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=&fontSize=90)
-
 ### 👋 Hi there
 - 🌱 빠르게 배우고 적응하고자 노력하는 **Backend Server Developer**입니다 🤸
 - 📫 **How to reach me:** [jimmy0308@naver.com]
