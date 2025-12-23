@@ -10,4 +10,5 @@
 ### 🏆 Algorithm & Stats
 <div align=left>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jimmy0308" height="130" alt="Solved.ac Tier" />
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chobaa&theme=default)
 </div>
