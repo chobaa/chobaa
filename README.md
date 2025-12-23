@@ -10,18 +10,10 @@
 ### 🏆 Algorithm & Stats
 <div align="center">
   
-  <img src="./profile-summary-card-output/gruvbox/0-profile-details.svg" width="98%" />
+  <img src="./profile-summary-card-output/gruvbox/0-profile-details.svg" width="100%" />
   
   <br/><br/>
 
-  <div style="overflow: hidden;">
-    
-    <img src="./profile-summary-card-output/gruvbox/1-repos-per-language.svg" height="170" align="left" />
-    
-    <a href="https://solved.ac/jimmy0308">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jimmy0308&theme=dark" height="170" align="right" />
-    </a>
-  
-  </div>
+  <img src="./profile-summary-card-output/gruvbox/1-repos-per-language.svg" width="49.5%" /><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jimmy0308&theme=dark" width="49.5%" />
 
 </div>
