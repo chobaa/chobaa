@@ -12,6 +12,6 @@
   
   <img src="./profile-summary-card-output/gruvbox/0-profile-details.svg" width="100%" />
 
-  <img src="./profile-summary-card-output/gruvbox/1-repos-per-language.svg" width="49.5%" height="170" /><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jimmy0308&theme=dark" width="49.5%" height="170" />
+  <img src="./profile-summary-card-output/gruvbox/1-repos-per-language.svg" width="49.5%"/><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jimmy0308&theme=dark" width="49.5%"/>
 
 </div>
