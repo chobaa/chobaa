@@ -9,9 +9,13 @@
 
 ### 🏆 Algorithm & Stats
 <div align="center">
- <img src="./profile-summary-card-output/gruvbox/0-profile-details.svg" width="98%" />
+  
+  <img src="./profile-summary-card-output/gruvbox/0-profile-details.svg" width="98%" />
+  
+  <br/><br/>
 
-    <div style="overflow: hidden;">
+  <div style="overflow: hidden;">
+    
     <img src="./profile-summary-card-output/gruvbox/1-repos-per-language.svg" height="170" align="left" />
     
     <a href="https://solved.ac/jimmy0308">
@@ -19,4 +23,5 @@
     </a>
   
   </div>
+
 </div>
