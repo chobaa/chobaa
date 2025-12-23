@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=d65d0e&height=250&section=header&text=Welcome&fontSize=80&fontColor=fbf1c7&animation=fadeIn)
-
 ### 👋 Hi there
 - 🌱 빠르게 배우고 적응하고자 노력하는 **Backend Server Developer**입니다 🤸
 - 📫 **How to reach me:** [jimmy0308@naver.com]
@@ -11,9 +9,9 @@
 
 ### 🏆 Algorithm & Stats
 <div align="center">
-  <img src="./profile-summary-card-output/gruvbox/0-profile-details.svg" width="98%" />
+ <img src="./profile-summary-card-output/gruvbox/0-profile-details.svg" width="98%" />
   
   <br/><br/>
 
-  <img src="./profile-summary-card-output/gruvbox/1-repos-per-language.svg" width="45%" />&nbsp;<a href="https://solved.ac/jimmy0308"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jimmy0308&theme=warm" width="45%" /></a>
+  <img src="./profile-summary-card-output/gruvbox/1-repos-per-language.svg" height="170" />&nbsp;<a href="https://solved.ac/jimmy0308"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jimmy0308&theme=warm" height="170" /></a>
 </div>
