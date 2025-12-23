@@ -3,7 +3,7 @@
 - 📫 **How to reach me:** [jimmy0308@naver.com]
 
 - 💪 **Proficient:** C/C++, Python, FastAPI, PostgreSQL
-- ✍️ **Experienced:** AWS EC2/S3, Docker, Flutter, Node.js, Unity, UnrealEngine4
+- ✍️ **Experienced:** AWS EC2/S3, Docker, Flutter, Node.js, Unity, UE4
 
 <br/>
 
