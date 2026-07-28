@@ -1,4 +1,4 @@
-## 📌 소개
+## 📌 Introduction
 
 > **새로운 기술에 빠르게 적응하고 꼼꼼함으로 가치를 만드는 백엔드 개발자 송진명입니다.**
 
@@ -18,7 +18,7 @@
 | 기간 | 프로젝트 | 내용 | 링크 |
 | :---: | :--- | :--- | :---: |
 | `2026.03 – 2026.06` | **택시 예보 서비스** | 디지털 트윈 기반 택시 수요 예측 및 배차 최적화 | [🔗 github](https://github.com/chobaa/CSE4187-DT-Taxi) |
-| `2026.03 – 2026.06` | **티켓팅 플랫폼** | 대기열 기반 고성능 공연 예매 시스템 | [🔗 github](https://github.com/chobaa/ticketing_server) |
+| `2026.03 – 2026.06` | **티켓팅 플랫폼** | 대기열 기반 공연 예매 시스템 | [🔗 github](https://github.com/chobaa/ticketing_server) |
 | `2026.01 – 2026.02` | **Ctrl + F5** | 언어의 최신 문법을 지원하는 AI 어시스턴스 | [🔗 github](https://github.com/chobaa/CtrlF5) |
 | `2025.09 – 2025.12` | **MOA** | LG WebOS 기반 가족 소통 앱 | [🔗 github](https://github.com/LGE-Univ-Sogang/2025_sogang_4_weavers) |
 | `2025.03 – 2025.06` | **Brief** | RAG 기반 뉴스 브리핑 시스템 | [🔗 github](https://github.com/chobaa/CSE4186-01-AI-news-briefing-system) |
